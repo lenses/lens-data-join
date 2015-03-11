@@ -1,11 +1,13 @@
 {
-  "name": "th-data-join",
+  "name": "lens-data-join",
   "version": "0.0.0",
   "keywords": "thelma, polymer, web-components",
-  "main": "th-data-join.html",
+  "main": "lens-data-join.html",
   "dependencies": {  
     "th-theme": "thelmanews/th-theme",
-    "polymer": "Polymer/polymer#~0.5.1"
+    "polymer": "Polymer/polymer#~0.5.5",
+    "core-collapse": "Polymer/core-collapse#~0.5.5",
+    "core-input": "Polymer/core-input#~0.5.5"
   }
 }
 
